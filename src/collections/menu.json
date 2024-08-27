@@ -4,15 +4,15 @@
 		"url": "/"
 	},
 	{
-		"name": "Posts",
-		"url": "/posts"
-	},
-	{
 		"name": "Projects",
 		"url": "/projects"
 	},
 	{
 		"name": "About",
 		"url": "/about"
+	},
+	{
+		"name":"Contact",
+		"url":"https://www.instagram.com/nursephotographer/"
 	}
 ]
